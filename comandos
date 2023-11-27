@@ -1,0 +1,18 @@
+git init : para iniciar un repositorio
+git status: para comprobar como esta el fichero (untraged, stagedo commited)
+git add nombre fichero: para pasar de untrged a staged
+git commit -m 'comentario' : para comitear el fichero (esta preparado para subir)
+git log : para ver las modificaciones e informacion sobre ello
+git checkout : para ir al pasado
+git checkout master : parar volver al presente
+git branch nombre : pones   nombre   a la rama
+git branch -d: eliminas rama
+git branch: para saber en que rama estoy 
+git remote -v : indica el origin 
+git push: para subir fichero a repositorio git
+git pull/fetch: para descargar de la nube
+git clone: para copiar un repositorio
+git config --global alias.como_lo_quieras_llamar 'comando --pretty=online --abbrev -commit': para acortar un comando
+git config --global user.nombre : para poner el nombre al inicio
+git config --global user.email: para introducir el correo 
+ 
